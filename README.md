@@ -1,20 +1,28 @@
 # Local Business Pipeline
 
+**Nationwide local business lead generation with website auditing, OpenClaw integration, and automated outreach**
+
+## Overview
+
 Nationwide local business lead generation with website auditing, OpenClaw integration, and automated outreach
 
-## Highlights
+## Tech Stack
+
+python
+
+## Key Points
 
 - Nationwide lead scraping across cities and niches
 - Automated site auditing for upsell opportunities
 - OpenClaw integration for white-label website delivery
 
-## Tech
+## Files
 
-- **python**
+- `local_biz_website_scraper.py` (22KB)
+- `local_biz_pipeline.py` (32KB)
 
-## Part Of
+## Part of Printmaxx (Meta Business System)
 
-[PRINTMAXX Starter Kit](https://github.com/fnsmdehip/printmaxx-starter-kit) — Autonomous revenue operating system
+This is a subsystem of [Printmaxx](https://github.com/fnsmdehip/printmaxx-starter-kit), a 27GB autonomous revenue operating system with 33 agents, 394 scripts, and 5,277 scored revenue methods.
 
----
-*[DEVPRINT](https://github.com/fnsmdehip/devprint) — 50+ projects built through AI-native development*
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
